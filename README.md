@@ -1,3 +1,2 @@
 # studymaterial
-Books found on Linux blogs
-Credit to the relevant authors 
+Books found online-credited to the relevant authors 
